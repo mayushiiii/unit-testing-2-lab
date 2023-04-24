@@ -1,4 +1,4 @@
-# unit-testing-lab-2
+# unit-testing-2-lab
 
  0. Clobati repo-ul
 
