@@ -9,3 +9,4 @@ def calculate_total(filename):
     """ return the sum of numbers in a text file """
     numbers = read(filename)
     return sum(numbers)
+aaaaaaaaaaaaaa
